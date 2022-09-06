@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group  android:checkableBehavior="none">
+        <item android:title="Home">
+            <menu>
+                <item android:title="Perfil"
+                    android:id="@+id/mPerfil"
+                    android:icon="@drawable/ic_baseline_person"/>
+
+                <item android:title="Enviar"
+                    android:id="@+id/mEnviar"
+                    android:icon="@drawable/ic_baseline_send"/>
+
+                <item android:title="Galeria"
+                    android:id="@+id/mGaleria"
+                    android:icon="@drawable/ic_baseline_photo_camera"/>
+            </menu>
+        </item>
+    </group>
+    <group>
+        <item android:title="Preferências">
+            <menu>
+                <item android:title="Configuração"
+                    android:id="@+id/mConfig"
+                    android:icon="@drawable/ic_baseline_settings"/>
+
+                <item android:title="Favoritos"
+                    android:id="@+id/mFavoritos"
+                    android:icon="@drawable/ic_baseline_favorite"/>
+
+                <item android:title="Privacidade"
+                    android:id="@+id/mPrivacidade"
+                    android:icon="@drawable/ic_baseline_lock"/>
+            </menu>
+        </item>
+    </group>
+
+</menu>

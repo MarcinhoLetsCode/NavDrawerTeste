@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavDrawerInicio</string>
+    <string name="navopen">navigation_drawer_open</string>
+    <string name="navclose">navigation_drawer_close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Welcome</string>
+</resources>

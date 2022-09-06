@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/drawable/ic_baseline_menu.xml" value="0.3035" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/layout/app_bar_layout.xml" value="0.365625" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/layout/fragment_galeria.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/layout/header_nav_view.xml" value="0.365625" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/layout/modelo_galeria.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/layout/toolbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/menu/menu_nav_new.xml" value="0.365625" />
+        <entry key="..\:/Users/Marcio Darlan/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Marcio Darlan/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/layout/fragment_galeria.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Marcio Darlan/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/layout/fragment_welcome.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Marcio Darlan/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/layout/fragmente_import.xml" value="0.49122807017543857" />
+        <entry key="..\:/Users/Marcio Darlan/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/layout/modelo_galeria.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Marcio Darlan/AndroidStudioProjects/NavDrawerTeste/app/src/main/res/menu/menu_nav_new.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
