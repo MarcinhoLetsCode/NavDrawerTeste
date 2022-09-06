@@ -16,7 +16,7 @@ import android.widget.TextView;
 public class FragmentGaleria extends Fragment {
 
     GridView gridView;
-    String tituloGaleria[] = {"Foto 1, Foto 2, Foto 3, Foto 4"};
+    String tituloGaleria[] = {"Foto 1", "Foto 2", "Foto 3", "Foto 4"};
     int fotoGaleria[] = {R.drawable.kids, R.drawable.dogs, R.drawable.park, R.drawable.couple};
 
     @Override

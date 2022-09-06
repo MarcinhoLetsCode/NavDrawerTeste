@@ -6,7 +6,7 @@
 
     <ImageView
         android:id="@+id/ivFoto"
-        android:layout_width="200dp"
+        android:layout_width="150dp"
         android:layout_height="180dp"
         android:src="@color/black"
         />
